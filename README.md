@@ -29,7 +29,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 ```
 If this does not work, open up the terminal and type in:
 ```
-which git
+which gitVC
 ````
 This should give you the path to your git executable. 
 * Click on apply 
@@ -37,7 +37,12 @@ This should give you the path to your git executable.
 * Go back to your project and click on code.
 * Create a new repository 
 * Refresh the page and click the "http" button. Copy this link as we will need it to allows our IntelliJ IDE to commit, push, and pull changes to our code repo.
-* Go back to IntelliJ IDE and 
+* Go back to IntelliJ IDE and click on VCS --> Checkout from Version Control --> Git
+* Insert copied Git URL from DevCS and paste into IntelliJ. Click on test and then enter your credentails that you used to log into your cloud tenancy. 
+* Clone the repo and open the project within IntelliJ. From there go into the index.jsp file and change the output.
+* Save your changes
+* Click on VCS --> Git --> Push
+* Commit and push your changes. Once that is complete go back to your DevCS project, click 'project' on the left hand side and see that your changes have been committed. 
 
 
 

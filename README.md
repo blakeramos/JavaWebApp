@@ -1,4 +1,10 @@
 # Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE
 
-gdfgdfgdfg 
+## Getting Started
+What you will need:
+* Oracle Cloud Trial Account
+* IntelliJ IDE
+* Jenkins
+  
+
 

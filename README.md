@@ -1,1 +1,1 @@
-# Integrating External Jenkins Server with Oracle Developer Cloud Service and IntelliJ Java IDE
+# Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE

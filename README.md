@@ -17,7 +17,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 * Create Autonomous Developer Cloud Service Instance
 * Create Project within your Autonomous Developer Cloud Service instance.
 
-### Lab:200
+### Lab: 200
 #### In this lab you will setup GIT with your IntelliJ IDE. 
 * Download provided Java Web Application. <--- insert link
 * Download [Git](https://git-scm.com/downloads)

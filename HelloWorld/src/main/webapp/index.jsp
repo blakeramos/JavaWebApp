@@ -8,6 +8,6 @@
         <title>Welcome!!!</title>
     </head>
     <body>
-        <h1>Hello World! Welcome to Oracle Developer Cloud Service.Changing some things....</h1>
+        <h1>Hello World! Welcome to Oracle Developer Cloud Service.Changing some things.....</h1>
     </body>
 </html>

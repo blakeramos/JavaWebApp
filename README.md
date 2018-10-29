@@ -29,7 +29,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 ```
 If this does not work, open up the terminal and type in:
 ```
-which gitVC
+which git
 ````
 This should give you the path to your git executable. 
 * Click on apply 

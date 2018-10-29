@@ -12,7 +12,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 * You must wait to receive your account before continuing to the "Create a DevCS instance" section:
 
 #### Create an Autonomous Developer Cloud Service instance:
-* Go to [Oracle Cloud Service] (https://cloud.oracle.com/home) homepage.
+* Go to [Oracle Cloud Service](https://cloud.oracle.com/home) homepage.
 * Insert photos
 * Create Autonomous Developer Cloud Service Instance
 * Create Project within your Autonomous Developer Cloud Service instance.
@@ -20,14 +20,18 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 # Lab:200
 In this lab you will setup GIT with your IntelliJ IDE. 
 * Download provided Java Web Application. <--- insert link
-* Download [Git] (https://git-scm.com/downloads)
+* Download [Git](https://git-scm.com/downloads)
 * Open IntelliJ and open the project folder that you just downloaded.
 * Go to IntelliJ preferences --> Version Control --> Git
 * You are now going to configure the path to the Git executable. Your Git executable path should be: 
 ```
 /usr/local/bin/git
 ```
-
+If this does not work, open up the terminal and type in:
+```
+which git
+````
+This should give you the path to your git executable. 
 
 
 

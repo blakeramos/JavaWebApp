@@ -13,9 +13,10 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 
 #### Create an Autonomous Developer Cloud Service instance:
 * Go to [Oracle Cloud Service](https://cloud.oracle.com/home) homepage.
-* Insert photos
-* Create Autonomous Developer Cloud Service Instance
-* Create Project within your Autonomous Developer Cloud Service instance.
+* Create an Autonomous Developer Cloud Service Instance
+* Create a Project within your Autonomous Developer Cloud Service instance.
+* Go to the code section on the lefthand side and click on "create a new repository".
+* insert copying instructions from before 
 
 ### Lab: 200
 #### In this lab you will setup GIT with your IntelliJ IDE. 
@@ -33,7 +34,6 @@ which git
 ````
 This should give you the path to your git executable. 
 * Click on apply 
-
 * Go back to your project and click on code.
 * Create a new repository 
 * Refresh the page and click the "http" button. Copy this link as we will need it to allows our IntelliJ IDE to commit, push, and pull changes to our code repo.

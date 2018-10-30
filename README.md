@@ -52,8 +52,8 @@ This part of the lab will help you create your external Jenkins web server and c
 sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
 ```
 * Click "install suggested plugins". This process may take a few minutes to complete. Until this is done feel free to browse Oracle's Autonomous Developer Cloud Services to make yourself familiar with all the different offerings. 
-* Install the following plugins by going to configure --> Global Tool Configuration
-* Unleash Maven Plugin
+* Go to configure --> Global Tool Configuration, install the following plugins:
+<LI> Unleash Maven Plugin
 * Notification Plugin
 * Build Authorization Token Root Plugin
 

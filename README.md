@@ -44,6 +44,11 @@ This should give you the path to your git executable.
 * Click on VCS --> Git --> Push
 * Commit and push your changes. Once that is complete go back to your DevCS project, click 'project' on the left hand side and see that your changes have been committed. 
 
+### Lab: 300
+This part of the lab will help you create your external Jenkins web server and connect it via webhooks with Autonomous Developer Cloud Service. 
+* Download [Jenkins](https://jenkins.io/download/) 2.149
+* 
+
 
 
 

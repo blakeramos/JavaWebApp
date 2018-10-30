@@ -31,7 +31,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 If this does not work, open up the terminal and type in:
 ```
 which git
-````
+```
 This should give you the path to your git executable. 
 * Click on apply 
 * Go back to your project and click on code.
@@ -47,8 +47,11 @@ This should give you the path to your git executable.
 ### Lab: 300
 This part of the lab will help you create your external Jenkins web server and connect it via webhooks with Autonomous Developer Cloud Service. 
 * Download [Jenkins](https://jenkins.io/download/) 2.149
-* 
-
+* Jenkins will then ask for the administration password. To get this password type in the terminal
+```
+sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
+```
+* Click "install suggested plugins". This process may take a few minutes to complete. Until this is done feel free to browse Oracle's Autonomous Developer Cloud Services to make yourself familiar with all the different offerings. 
 
 
 

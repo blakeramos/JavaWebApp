@@ -14,10 +14,28 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 #### Create an Autonomous Developer Cloud Service instance:
 * Go to [Oracle Cloud Service](https://cloud.oracle.com/home) homepage.
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/cloud.oracle.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.37.06%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.38.55%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.39.12%20PM.png)
 * Create an __Autonomous Developer Cloud Service Instance__
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.39.28%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.47.16%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.49.03%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.49.40%20PM.png)
+* Click on the instances hamburger menu and click on __Access Service Instance__
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.58.09%20PM.png)
 * Create a __Project__ within your Autonomous Developer Cloud Service instance.
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.58.52%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.00.08%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.00.20%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.00.34%20PM.png)
 * Go to the code section on the lefthand side and click on __create a new repository__.
-* insert copying instructions from before 
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.26.38%20PM.png)
+* __Name__: CodeRepo
+* Click __Import existing repository
+* __Import existing repo__: https://github.com/blakeramos/JavaWebApp
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.34.58%20PM.png)
+
 
 ### Lab: 200
 #### In this lab you will setup GIT with your IntelliJ IDE. 

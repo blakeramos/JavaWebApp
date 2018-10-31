@@ -67,7 +67,7 @@ sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
  ```
  * For Java give any name you want and then set the path of JAVA_HOME. To find this path go into terminal and type in
  ```
- which java
+ /usr/libexec/java_home
  ```
 * Go to the Jenkins Dashboard page and click __create new jobs__ and or __new item__ to create a job. 
   * __Enter an item name__: AutoDevCS_JavaApp

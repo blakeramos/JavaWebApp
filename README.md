@@ -79,6 +79,7 @@ sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
   * Enter the Oracle Autonomous Developer Cloud Service Git repository URL.
   * In the __credentials__ section click __add-->Jenkins__ and provide your Oracle Autonomous Developer Cloud Service credentials. 
   * Click __Add__ when you are done. If you are receiving a red error please make sure you have entered your credentials correctly. The error message should disappear after Jenkins verifies your credentials. 
+  * Note: Make sure that you select the credentials you have just created. 
 * Click the __Build__ tab.
   * Root POM: __HelloWorld/pom.xml__
   * Goals and options: __clean install__

@@ -70,21 +70,21 @@ sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
  which java
  ```
 * Go to the Jenkins Dashboard page and click __create new jobs__ and or __new item__ to create a job. 
- * __Enter an item name__: AutoDevCS_JavaApp
- * __Job type__: Maven
- * Press __OK___
+  * __Enter an item name__: AutoDevCS_JavaApp
+  * __Job type__: Maven
+  * Press __OK___
 * In the __description__ field of the __general__ tab on the Configuration page, enter a desrciption of the job that you see fit.
 * Click the __Source Code Management__ tab.
- * Select the __git__ options
- * Enter the Oracle Autonomous Developer Cloud Service Git repository URL.
- * In the __credentials__ section click __add-->Jenkins__ and provide your Oracle Autonomous Developer Cloud Service credentials. 
- * Click __Add__ when you are done. If you are receiving a red error please make sure you have entered your credentials correctly. The error message should disappear after Jenkins verifies your credentials. 
+  * Select the __git__ options
+  * Enter the Oracle Autonomous Developer Cloud Service Git repository URL.
+  * In the __credentials__ section click __add-->Jenkins__ and provide your Oracle Autonomous Developer Cloud Service credentials. 
+  * Click __Add__ when you are done. If you are receiving a red error please make sure you have entered your credentials correctly. The error message should disappear after Jenkins verifies your credentials. 
 * Click the __Build__ tab.
- * Root POM: __HelloWorld/pom.xml__
- * Goals and options: __clean install__
+  * Root POM: __HelloWorld/pom.xml__
+  * Goals and options: __clean install__
 * Click the __Post-build Actions__ tab
- * Click the __Add post-build action__ button and select the __Archive the artifacts__ options.
- * You will now see a __Files to archive__ field enter: __HelloWorld/*.war__
+  * Click the __Add post-build action__ button and select the __Archive the artifacts__ options.
+  * You will now see a __Files to archive__ field enter: __HelloWorld/*.war__
 * Click __save__
 
 

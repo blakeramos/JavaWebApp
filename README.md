@@ -1,4 +1,16 @@
 # Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE
+## What is Jenkins and why is it important?
+* Jenkins is a server that allows for continuous integration and continuous development. A few features include regular deployment, daily backups, weekly cleanups, vulnerability scans, workflow enforment, and the list goes on. 
+* Easy installation
+* Hundreds of plugins that allows Jenkins to integrate with practically every tool in the CI/CD delivery toolchain. 
+* Distributed: Ability to work across multiple machines helping to drive test/deployment across multiple platforms faster. 
+* [Companies that use Jenkins](https://wiki.jenkins.io/pages/viewpage.action?pageId=58001258)
+
+## What is IntelliJ IDEA?
+* Java IDE that is designed to maximize developer productivity. 
+* Built-in tools and supported frameworks.
+* [Companies that use IntelliJ](https://www.jetbrains.com/company/customers/)
+
 
 ## Getting Started
 What you will need:
@@ -225,17 +237,3 @@ With a successful build, go back to the Jenkins server.
 # What next???!!?!?!
 * [Deploying a Java EE application to a Java Cloud Service Instance](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/eclipse_jcs/eclipse_jcs.html)
 * [Deploying a Jenkins server on OCI](https://blogs.oracle.com/cloud-infrastructure/deploy-jenkins-on-oracle-cloud-infrastructure) 
-
-
-  
-
-
-    
-  
-
-
-
-
-  
-
-

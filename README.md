@@ -39,10 +39,12 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 
 ### Lab: 200
 #### In this lab you will setup GIT with your IntelliJ IDE. 
-* Download provided Java Web Application. <--- insert link
+* Download provided [Java Web Application](https://github.com/blakeramos/JavaWebApp)
 * Download [Git](https://git-scm.com/downloads)
+* Download [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)
 * Open IntelliJ and open the __project folder__ that you just downloaded.
 * Go to __IntelliJ preferences --> Version Control --> Git__
+
 * You are now going to configure the path to the Git executable. Your Git executable path should be: 
 ```
 /usr/local/bin/git

@@ -39,12 +39,12 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 
 ### Lab: 200
 #### In this lab you will setup GIT with your IntelliJ IDE. 
-* Download provided [Java Web Application](https://github.com/blakeramos/JavaWebApp)
 * Download [Git](https://git-scm.com/downloads)
 * Download [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)
 * Open IntelliJ and open the __project folder__ that you just downloaded.
 * Go to __IntelliJ preferences --> Version Control --> Git__
-
+ ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.24.57%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.25.11%20PM.png)
 * You are now going to configure the path to the Git executable. Your Git executable path should be: 
 ```
 /usr/local/bin/git
@@ -54,16 +54,21 @@ If this does not work, open up the terminal and type in:
 which git
 ```
 This should give you the path to your git executable. 
-* Click on __apply__ 
-* Go back to your project and click on __code__.
-* Create a __new__ repository 
-* Refresh the page and click the "http" button. Copy this link as we will need it to allows our IntelliJ IDE to commit, push, and pull changes to our code repo.
-* Go back to IntelliJ IDE and click on __VCS --> Checkout from Version Control --> Git__
+* Click on __OK__ 
+* Go back to your project on __Autonomous Developer Cloud Service__ and click on __code__.
+* Click the "http" button. Copy this link as we will need it to allows our IntelliJ IDE to commit, push, and pull changes to our code repo.
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.35.38%20PM.png)
+* Go back to __IntelliJ IDE__ and click on __VCS --> Checkout from Version Control --> Git__
 * Insert copied Git URL from DevCS and paste into IntelliJ. Click on test and then enter your credentails that you used to log into your cloud tenancy. 
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.30.04%20PM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.30.31%20PM.png)
 * Clone the repo and open the project within IntelliJ. From there go into the index.jsp file and change the output.
 * Save your changes
 * Click on __VCS --> Git --> Push__
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-30%20at%208.53.53%20AM.png)
 * __Commit__ and __push__ your changes. Once that is complete go back to your DevCS project, click 'project' on the left hand side and see that your changes have been committed. 
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-30%20at%208.56.22%20AM.png)
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-30%20at%208.56.35%20AM.png)
 * If you don't have Java and Git installed please do so before going onto the next step.
  * [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
  * [Git](https://git-scm.com/downloads)

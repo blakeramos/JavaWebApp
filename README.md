@@ -89,6 +89,18 @@ sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
   * Select the __Trigger builds remotely__ check box
   * In the __Authentication token__ field enter: __my_auth_token__
 * Click __save__
+* Go to your terminal and type the command:
+```
+ssh -R 80:localhost:8080 ssh.localhost.run
+```
+This will allows your external Jenkins server to connect to the internet. You can now log into your Jenkins server using the new url provided. 
+
+### Lab: 400
+This part of the lab will help you create and configure the webhooks that will allows our external Jenkins server and Oracle Autonomous Developer Cloud project to communicate. Congrats! You are almost done!
+* In Oracle Autonomous Developer Cloud Service interface, open the project, and click __Administration --> Webhooks__ in the side bar.
+  * Click __+ New Webhook__
+    * __Type__: Select __Hudson/Jenkins - Build trigger__
+    * __Name__: Enter the base URL of the Jenkins Server. 
 
 
 

@@ -85,6 +85,9 @@ sudo cat /Users/Shared/Jenkins/Home/secrets/initialAdminPassword
 * Click the __Post-build Actions__ tab
   * Click the __Add post-build action__ button and select the __Archive the artifacts__ options.
   * You will now see a __Files to archive__ field enter: __HelloWorld/*.war__
+* Click the __Build Triggers__ tab
+  * Select the __Trigger builds remotely__ check box
+  * In the __Authentication token__ field enter: __my_auth_token__
 * Click __save__
 
 

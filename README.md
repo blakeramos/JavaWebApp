@@ -1,6 +1,6 @@
 # Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE
 ## What is Jenkins and why is it important?
-* Jenkins is a server that allows for continuous integration and continuous development. A few features include regular deployment, daily backups, weekly cleanups, vulnerability scans, workflow enforment, and the list goes on. 
+* Jenkins is a server that allows for continuous integration and continuous development. A few features include regular deployment, daily backups, weekly cleanups, vulnerability scans, workflow environment, and the list goes on. 
 * Easy installation
 * Hundreds of plugins that allows Jenkins to integrate with practically every tool in the CI/CD delivery toolchain. 
 * Distributed: Ability to work across multiple machines helping to drive test/deployment across multiple platforms faster. 

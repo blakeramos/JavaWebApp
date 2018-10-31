@@ -13,6 +13,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 
 #### Create an Autonomous Developer Cloud Service instance:
 * Go to [Oracle Cloud Service](https://cloud.oracle.com/home) homepage.
+![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/cloud.oracle.png)
 * Create an __Autonomous Developer Cloud Service Instance__
 * Create a __Project__ within your Autonomous Developer Cloud Service instance.
 * Go to the code section on the lefthand side and click on __create a new repository__.

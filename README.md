@@ -37,7 +37,7 @@ This part of the lab will help you get started with an Oracle cloud trial acccou
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.26.38%20PM.png)
 
 * __Name__: CodeRepo
-* Click __Import existing repository
+* Click __Import existing repository__
 * __Import existing repo__: https://github.com/blakeramos/JavaWebApp
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%203.34.58%20PM.png)
 

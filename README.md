@@ -114,7 +114,7 @@ This part of the lab will help you create and configure the webhooks that will a
     * __Type__: Select __Jenkins - Notification Plugin__
     * __Name__: Enter __JenkinsGetNotification__ 
     * __Base Url__: Your jenkins URL: (eg: http://username.localhost.run)
-    * Check the box that says __Build Results__ 
+    * Check the box that says __Ongoing Builds__ 
     * Click __Done__
     The webhook is now able to get notification from the Jenkins server when the build runs and is complete. 
 * Copy the __JenkinsGetNotification__ webhook __URL__
